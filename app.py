@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return redirect("https://www.wholesale7.net", code=302)
+    return redirect("https://www.sunsky-online.com/", code=302)
